@@ -11,7 +11,7 @@ With this project, you can collect tweets for a specific period for 2500 Twitter
 All you need is a dataset with the Twitter handles of the accounts you are interested in.
 If you want to collect tweets from more Twitter accounts at once, you have to adjust this template or run it multiple times.
 
-### What’s the use of this template?
+### Why should I use this template?
 Because there are restrictions in Twitter’s Academic Developer Access, you can only collect tweets for a few accounts at once. This script splits up your queries and makes the process of downloading tweets from a considerable amount of accounts more convenient.
 
 ### What do I need?
