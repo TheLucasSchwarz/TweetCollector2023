@@ -18,7 +18,7 @@ Because there are restrictions in Twitter’s Academic Developer Access, you can
 All you need is Twitter’s Academic Developer Access and R installed on your computer. 
 
 ### How to use it?
-To use this template, open the Tweets_Collector_2023_main.R-File and follow the instructions step-by-step.
+To use this template, download the Tweets_Collector_2023-Folder. Then open the Tweets_Collector_2023_main.R-File and follow the instructions step-by-step.
 
 ### Who are you?
 My name is Lucas Schwarz, and I’m a master’s student in Empirical Democracy Studies at the University of Mainz with a B.A. in Political Science. 
