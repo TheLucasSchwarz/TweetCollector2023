@@ -5,9 +5,9 @@
 
 ### Description of the Project
 
-# With this Project you are able to collect tweets for a specific time period for 2500 twitter accounts. 
-# All you need is a dataframe with the Twitterhandles of the accounts your interested in.
-# If you want to collect tweets from more twitter accounts at once, you have to adjust this template or run it multiple times.
+# With this project, you can collect tweets for a specific time period for 2500 Twitter accounts. 
+# All you need is a dataset with the Twitter handles of the accounts you are interested in. 
+# If you want to collect tweets from more Twitter accounts at once, you have to adjust this template or run it multiple times
 
 ### Attention: This project is work in progress.
 
