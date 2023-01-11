@@ -15,6 +15,8 @@
 #### Setting up the Environment ####
 # Install the required packages
 
+#install.packages("devtools")
+#library(devtools)
 #devtools::install_github("cjbarrie/academictwitteR", build_vignettes = TRUE)
 #install.packages("haven")
 #install.packages("foreign")
