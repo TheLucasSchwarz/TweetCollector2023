@@ -26,3 +26,5 @@ I'm interested in Political Communication, Political Sociology, and many fields 
 
 ### Your knowledge is welcome!
 Because I'm a beginner in R, I appreciate your contributions and suggestion to make this code more elegant and optimized.
+
+### Thanks for using my Template. Feel free to share :)
