@@ -1,9 +1,9 @@
 # TweetCollector2023
 ### ---WORK IN PROGRESS--- 
-Author: Lucas Schwarz
-Last Edit: 2023-01-11
+**Author**: Lucas Schwarz
+**Last Edit**: 2023-01-11
 
-#### Description
+### Description
 Download tweets for many accounts with Twitter-API and R using the academictwitteR-Package.
 
 ### The Project
