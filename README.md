@@ -21,7 +21,7 @@ All you need is Twitter’s Academic Developer Access and R installed on your co
 To use this template, download the Tweets_Collector_2023-Folder. Then open the Tweets_Collector_2023_main.R-File and follow the instructions step-by-step.
 
 ### Who are you?
-My name is Lucas Schwarz, and I’m a master’s student in Empirical Democracy Studies at the University of Mainz with a B.A. in Political Science. 
+My name is Lucas Schwarz, and I’m a master student in Empirical Democracy Studies at the University of Mainz with a B.A. in Political Science. 
 I'm interested in Political Communication, Political Sociology, and many fields related to Politics and Internet. I'm a Stata user who is learning R right now.
 
 ### Your knowledge is welcome!
